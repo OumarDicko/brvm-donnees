@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "Si vous utilisez ces données, merci de les citer comme ci-dessous."
 type: dataset
-title: "Données historiques des actions de la BRVM : cours, dividendes et fractionnements, 2013-2026"
+title: "Données historiques des sociétés cotées à la BRVM : cours, dividendes, fractionnements et états financiers"
 authors:
   - family-names: Dicko
     given-names: Oumar
@@ -15,5 +15,6 @@ keywords:
   - stock prices
   - dividends
   - stock splits
+  - financial statements
   - West Africa
   - frontier markets
