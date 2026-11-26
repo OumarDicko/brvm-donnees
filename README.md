@@ -1,5 +1,7 @@
 # Données historiques des sociétés cotées à la BRVM
 
+[![DOI](https://zenodo.org/badge/1472648579.svg)](https://doi.org/10.5281/zenodo.24549195)
+
 Quatre bases construites à partir des publications officielles de la Bourse Régionale des Valeurs Mobilières
 (BRVM) et des sociétés cotées : les cours de chaque séance, les dividendes, les opérations sur le nombre d'actions
 (fractionnements, attributions gratuites) et les états financiers annuels.
@@ -74,7 +76,23 @@ sonatel = prix[prix.symbole == "SNTS"][["date", "ouverture", "cloture", "volume"
 - Données : [CC-BY-4.0](LICENCE_CC-BY-4.0.txt). Libre réutilisation, à condition de citer la source.
 - Scripts : [Apache-2.0](scripts/LICENCE_Apache-2.0.txt).
 
-Pour citer : voir `CITATION.cff` (bouton « Cite this repository » de GitHub) ou le DOI Zenodo.
+Pour citer :
+
+> Dicko, Oumar (2026). *Données historiques des sociétés cotées à la BRVM : cours, dividendes, fractionnements et
+> états financiers*. Zenodo. https://doi.org/10.5281/zenodo.24549195
+
+```bibtex
+@dataset{dicko_brvm_donnees,
+  author    = {Dicko, Oumar},
+  title     = {Données historiques des sociétés cotées à la BRVM : cours, dividendes, fractionnements et états financiers},
+  year      = {2026},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.24549195},
+  url       = {https://doi.org/10.5281/zenodo.24549195}
+}
+```
+
+Ce DOI renvoie toujours à la dernière version mensuelle ; chaque version a aussi son propre DOI, donné sur la page Zenodo.
 
 Sources : publications des sociétés cotées (brvm.org) pour les états financiers ; Bulletins Officiels de la Cote, avis et calendriers de la BRVM (brvm.org, bfin.brvm.org) ; archive des
 bulletins 2010-2025 de lamekemal sur Hugging Face (`lamekemal/brvm-reports-pdfs`, licence Apache 2.0) ;
@@ -95,4 +113,4 @@ exchange of the eight WAEMU countries), built from the exchange's official docum
   including delisted ones, fiscal years 1998 to 2025.
 
 Prices are raw (unadjusted). Price, dividend and split rows point to their source document; the PDFs are on Hugging Face (links above).
-Data under CC-BY-4.0, scripts under Apache-2.0.
+Data under CC-BY-4.0, scripts under Apache-2.0. Cite as: https://doi.org/10.5281/zenodo.24549195
