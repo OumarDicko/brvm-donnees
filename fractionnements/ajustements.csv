@@ -1,0 +1,68 @@
+ticker,nom,type,date_effet,parite,facteur,cours_veille,valeur_theorique,source_document,source_boc_veille,source_boc_jour,verification
+ABJC,SERVAIR,fractionnement,2016-09-30,20 nouvelles pour 1 ancienne,20.0,166500.0,8300.0,AVIS_143-2016_BRVM-DG_ABJC_20160929.pdf,BOC_20160928.pdf,BOC_20161003.pdf,bulletins + avis BRVM
+BICC,BICI,fractionnement,2017-10-06,10 nouvelles pour 1 ancienne,10.0,89445.0,8945.0,AVIS_179-2017_BRVM-DG_BICC_20170922.pdf,BOC_20171005.pdf,BOC_20171006.pdf,bulletins + avis BRVM
+BNBC,BERNABE,fractionnement,2017-07-27,20 nouvelles pour 1 ancienne,20.0,104000.0,5200.0,AVIS_106-2017_BRVM-DG_BNBC_20170706.pdf,BOC_20170726.pdf,BOC_20170727.pdf,bulletins + avis BRVM
+BOAB,BOA BENIN,attribution gratuite,2017-06-20,1 nouvelle pour 1 ancienne,2.0,210000.0,105000.0,AVIS_071-2017_BRVM-DG_BOAB_20170605.pdf,BOC_20170619.pdf,BOC_20170620.pdf,bulletins + avis BRVM
+BOAB,BOA BENIN,fractionnement,2017-10-31,10 nouvelles pour 1 ancienne,10.0,68905.0,6895.0,AVIS_203-2017_BRVM-DG_BOAB_20171012.pdf,BOC_20171030.pdf,BOC_20171031.pdf,bulletins + avis BRVM
+BOAB,BOA BENIN,attribution gratuite,2024-09-03,1 nouvelle pour 1 ancienne,2.0,7775.0,3885.0,AVIS_204-2024_BRVM-DG_BOAB_20240822.pdf,BOC_20240902.pdf,BOC_20240903.pdf,bulletins + avis BRVM
+BOABF,BOA BURKINA,augmentation de capital en numéraire,2014-09-25,1 nouvelle pour 10 anciennes à 60 000 FCFA,1.037138,99000.0,95455.0,COMMUNIQUE_BOABF_20140915.pdf,BOC_20140924.pdf,BOC_20140925.pdf,bulletins + communiqué
+BOABF,BOA BURKINA,attribution gratuite,2017-06-27,1 nouvelle pour 1 ancienne,2.0,188185.0,100000.0,AVIS_077-2017_BRVM-DG_BOABF_20170613.pdf,BOC_20170623.pdf,BOC_20170627.pdf,bulletins + avis BRVM
+BOABF,BOA BURKINA,fractionnement,2017-10-24,10 nouvelles pour 1 ancienne,10.0,73890.0,7390.0,AVIS_197-2017_BRVM-DG_BOABF_20171010.pdf,BOC_20171023.pdf,BOC_20171024.pdf,bulletins + avis BRVM
+BOABF,BOA BURKINA,attribution gratuite,2024-08-28,1 nouvelle pour 1 ancienne,2.0,6800.0,3400.0,AVIS_197-2024_BRVM-DG_BOABF_20240816.pdf,BOC_20240827.pdf,BOC_20240828.pdf,bulletins + avis BRVM
+BOAC,BOA CI,augmentation de capital en numéraire,2014-12-04,5 nouvelles pour 36 anciennes à 60 000 FCFA,1.041749,89330.0,85750.0,COMMUNIQUE_BOAC_20141128.pdf,BOC_20141203.pdf,BOC_20141204.pdf,bulletins + communiqué
+BOAC,BOA CI,attribution gratuite,2016-06-08,9 nouvelles pour 41 anciennes,1.219512,215005.0,176305.0,COMMUNIQUE_BOAC_20160525.pdf,BOC_20160607.pdf,BOC_20160608.pdf,bulletins + communiqué
+BOAC,BOA CI,attribution gratuite,2017-06-20,1 nouvelle pour 1 ancienne,2.0,178000.0,89000.0,AVIS_072-2017_BRVM-DG_BOAC_20170608.pdf,BOC_20170619.pdf,BOC_20170620.pdf,bulletins + avis BRVM
+BOAC,BOA CI,fractionnement,2017-10-26,10 nouvelles pour 1 ancienne,10.0,41500.0,4150.0,AVIS_199-2017_BRVM-DG_BOAC_20171011.pdf,BOC_20171025.pdf,BOC_20171026.pdf,bulletins + avis BRVM
+BOAC,BOA CI,attribution gratuite,2024-10-25,1 nouvelle pour 1 ancienne,2.0,10300.0,5150.0,AVIS_257-2024_BRVM-DG_BOAC_20241015.pdf,BOC_20241024.pdf,BOC_20241025.pdf,bulletins + avis BRVM
+BOAM,BOA MALI,attribution gratuite,2017-09-20,1 nouvelle pour 2 anciennes,1.5,35000.0,23330.0,AVIS_165-2017_BRVM-DG_BOAM_20170908.pdf,BOC_20170919.pdf,BOC_20170920.pdf,bulletins + avis BRVM
+BOAM,BOA MALI,fractionnement,2017-12-22,5 nouvelles pour 1 ancienne,5.0,23000.0,4600.0,AVIS_252-2017_BRVM-DG_BOAM_20171208.pdf,BOC_20171221.pdf,BOC_20171222.pdf,bulletins + avis BRVM
+BOAM,BOA MALI,augmentation de capital en numéraire,2021-10-06,"19 nouvelles pour 103 anciennes, droit de 130 FCFA",1.07027,1980.0,1850.0,AVIS_191-2021_BRVM-DG_BOAM_20211005.pdf,BOC_20211005.pdf,BOC_20211006.pdf,bulletins + avis BRVM
+BOAM,BOA MALI,attribution gratuite,2024-08-28,1 nouvelle pour 2 anciennes,1.5,2020.0,1345.0,AVIS_196-2024_BRVM-DG_BOAM_20240816.pdf,BOC_20240827.pdf,BOC_20240828.pdf,bulletins + avis BRVM
+BOAN,BOA NIGER,augmentation de capital en numéraire,2013-09-27,1 nouvelle pour 16 anciennes à 33 000 FCFA,1.01278,42000.0,41470.0,COMMUNIQUE_BOAN_20130917.pdf,BOC_20130926.pdf,BOC_20131001.pdf,bulletins + communiqué
+BOAN,BOA NIGER,attribution gratuite,2014-07-30,2 nouvelles pour 17 anciennes,1.117647,68000.0,60840.0,AVIS_094-2014_BRVM-DG_BOAN_20140715.pdf,BOC_20140729.pdf,BOC_20140730.pdf,bulletins + avis BRVM
+BOAN,BOA NIGER,attribution gratuite,2016-06-03,1 nouvelle pour 19 anciennes,1.052632,114000.0,,COMMUNIQUE_BOAN_20160525.pdf,BOC_20160601.pdf,BOC_20160603.pdf,bulletins + communiqué
+BOAN,BOA NIGER,attribution gratuite,2017-06-21,3 nouvelles pour 10 anciennes,1.3,80000.0,61535.0,AVIS_073-2017_BRVM-DG_BOAN_20170608.pdf,BOC_20170620.pdf,BOC_20170621.pdf,bulletins + avis BRVM
+BOAN,BOA NIGER,fractionnement,2017-10-27,10 nouvelles pour 1 ancienne,10.0,39500.0,3950.0,AVIS_200-2017_BRVM-DG_BOAN_20171011.pdf,BOC_20171026.pdf,BOC_20171027.pdf,bulletins + avis BRVM
+BOAN,BOA NIGER,attribution gratuite,2024-09-04,3 nouvelles pour 5 anciennes,1.6,5220.0,3260.0,AVIS_205-2024_BRVM-DG_BOAN_20240823.pdf,BOC_20240903.pdf,BOC_20240904.pdf,bulletins + avis BRVM
+BOAS,BOA SENEGAL,attribution gratuite,2017-06-27,1 nouvelle pour 1 ancienne,2.0,71000.0,35500.0,AVIS_078-2017_BRVM-DG_BOAS_20170613.pdf,BOC_20170623.pdf,BOC_20170627.pdf,bulletins + avis BRVM
+BOAS,BOA SENEGAL,fractionnement,2017-10-30,10 nouvelles pour 1 ancienne,10.0,30500.0,3050.0,AVIS_204-2017_BRVM-DG_BOAS_20171012.pdf,BOC_20171027.pdf,BOC_20171030.pdf,bulletins + avis BRVM
+BOAS,BOA SENEGAL,attribution gratuite,2024-08-29,1 nouvelle pour 2 anciennes,1.5,4690.0,3125.0,AVIS_200-2024_BRVM-DG_BOAS_20240819.pdf,BOC_20240828.pdf,BOC_20240829.pdf,bulletins + avis BRVM
+CABC,SICABLE,fractionnement,2017-08-16,40 nouvelles pour 1 ancienne,40.0,39000.0,975.0,AVIS_122-2017_BRVM-DG_CABC_20170717.pdf,BOC_20170814.pdf,BOC_20170816.pdf,bulletins + avis BRVM
+CBIBF,CORIS BANK,attribution gratuite,2017-09-21,3 nouvelles pour 125 anciennes,1.024,41875.0,40890.0,AVIS_152-2017_BRVM-DG_CBIBF_20170828.pdf,BOC_20170920.pdf,BOC_20170921.pdf,bulletins + avis BRVM
+CBIBF,CORIS BANK,fractionnement,2017-12-14,5 nouvelles pour 1 ancienne,5.0,45400.0,9080.0,AVIS_240-2017_BRVM-DG_CBIBF_20171127.pdf,BOC_20171213.pdf,BOC_20171214.pdf,bulletins + avis BRVM
+CFAC,CFAO MOTORS,fractionnement,2017-12-13,100 nouvelles pour 1 ancienne,100.0,37500.0,375.0,AVIS_236-2017_BRVM-DG_CFAC_20171123.pdf,BOC_20171212.pdf,BOC_20171213.pdf,bulletins + avis BRVM
+CIEC,CIE,fractionnement,2017-10-19,20 nouvelles pour 1 ancienne,20.0,57995.0,2900.0,AVIS_194-2017_BRVM-DG_CIEC_20171003.pdf,BOC_20171018.pdf,BOC_20171019.pdf,bulletins + avis BRVM
+ECOC,ECOBANK CI,fractionnement,2018-12-27,5 nouvelles pour 1 ancienne,5.0,20360.0,4075.0,AVIS_180-2018_BRVM-DG_ECOC_20181211.pdf,BOC_20181226.pdf,BOC_20181227.pdf,bulletins + avis BRVM
+FTSC,FILTISAC,fractionnement,2018-01-31,4 nouvelles pour 1 ancienne,4.0,16500.0,4125.0,AVIS_009-2018_BRVM-DG_FTSC_20180110.pdf,BOC_20180130.pdf,BOC_20180131.pdf,bulletins + avis BRVM
+NEIC,NEI-CEDA,fractionnement,2017-08-10,25 nouvelles pour 1 ancienne,25.0,1100.0,44.0,AVIS_124-2017_BRVM-DG_NEIC_20170725.pdf,BOC_20170809.pdf,BOC_20170810.pdf,bulletins + avis BRVM
+NTLC,NESTLE,fractionnement,2017-09-08,20 nouvelles pour 1 ancienne,20.0,49450.0,2475.0,AVIS_164-2017_BRVM-DG_NTLC_20170907.pdf,BOC_20170907.pdf,BOC_20170908.pdf,bulletins + avis BRVM
+ONTBF,ONATEL,fractionnement,2013-11-29,10 nouvelles pour 1 ancienne,10.0,63000.0,6300.0,COMMUNIQUE_ONTBF_20131028.pdf,BOC_20131128.pdf,BOC_20131129.pdf,bulletins + communiqué
+ONTBF,ONATEL,fractionnement,2018-08-29,2 nouvelles pour 1 ancienne,2.0,7950.0,3975.0,AVIS_123-2018_BRVM-DG_ONTBF_20180730.pdf,BOC_20180828.pdf,BOC_20180829.pdf,bulletins + avis BRVM
+PALC,PALM CI,fractionnement,2017-11-03,2 nouvelles pour 1 ancienne,2.0,9000.0,4500.0,AVIS_208-2017_BRVM-DG_PALC_20171017.pdf,BOC_20171102.pdf,BOC_20171103.pdf,bulletins + avis BRVM
+PRSC,TRACTAFRIC MOTORS,fractionnement,2019-10-25,64 nouvelles pour 1 ancienne,64.0,120000.0,1875.0,AVIS_162-2019_BRVM-DG_PRSC_20191010.pdf,BOC_20191024.pdf,BOC_20191025.pdf,bulletins + avis BRVM
+SAFC,SAFCA,attribution gratuite,2017-10-12,3 nouvelles pour 2 anciennes,2.5,22500.0,9000.0,AVIS_192-2017_BRVM-DG_SAFC_20171002.pdf,BOC_20171011.pdf,BOC_20171012.pdf,bulletins + avis BRVM
+SAFC,SAFCA,fractionnement,2018-12-24,25 nouvelles pour 1 ancienne,25.0,5300.0,215.0,AVIS_178-2018_BRVM-DG_SAFC_20181128.pdf,BOC_20181221.pdf,BOC_20181224.pdf,bulletins + avis BRVM
+SAFC,SAFCA,augmentation de capital en numéraire,2026-04-24,6 nouvelles pour 13 anciennes à 400 FCFA,1.4151,5505.0,3890.0,AVIS_093-2026_BRVM-DG_SAFC_20260413.pdf,BOC_20260423.pdf,BOC_20260424.pdf,bulletins + avis BRVM
+SCRC,SUCRIVOIRE,fractionnement,2017-12-04,4 nouvelles pour 1 ancienne,4.0,3150.0,790.0,AVIS_233-2017_BRVM-DG_SCRC_20171116.pdf,BOC_20171130.pdf,BOC_20171204.pdf,bulletins + avis BRVM
+SDCC,SODE CI,fractionnement,2017-12-28,10 nouvelles pour 1 ancienne,10.0,51995.0,5200.0,AVIS_254-2017_BRVM-DG_SDCC_20171212.pdf,BOC_20171227.pdf,BOC_20171228.pdf,bulletins + avis BRVM
+SDSC,BOLLORE - AGL,fractionnement,2017-07-31,50 nouvelles pour 1 ancienne,50.0,185000.0,3700.0,AVIS_129-2017_BRVM-DG_SDSC_20170728.pdf,BOC_20170728.pdf,BOC_20170731.pdf,bulletins + avis BRVM
+SEMC,CROWN SIEM,fractionnement,2018-12-20,40 nouvelles pour 1 ancienne,40.0,11565.0,290.0,AVIS_179-2018_BRVM-DG_SEMC_20181205.pdf,BOC_20181219.pdf,BOC_20181220.pdf,bulletins + avis BRVM
+SGBC,SGCI,fractionnement,2017-08-25,10 nouvelles pour 1 ancienne,10.0,117600.0,11760.0,AVIS_139-2017_BRVM-DG_SGBC_20170810.pdf,BOC_20170824.pdf,BOC_20170825.pdf,bulletins + avis BRVM
+SHEC,VIVO ENERGY,fractionnement,2016-11-04,50 nouvelles pour 1 ancienne,50.0,130000.0,2600.0,AVIS_167-2016_BRVM-DG_SHEC_20161103.pdf,BOC_20161103.pdf,BOC_20161104.pdf,bulletins + avis BRVM
+SIBC,SIB,fractionnement,2018-06-15,5 nouvelles pour 1 ancienne,5.0,16750.0,3350.0,AVIS_072-2018_BRVM-DG_SIBC_20180518.pdf,BOC_20180613.pdf,BOC_20180615.pdf,bulletins + avis BRVM
+SIBC,SIB,attribution gratuite,2024-11-14,1 nouvelle pour 1 ancienne,2.0,7100.0,3550.0,AVIS_273-2024_BRVM-DG_SIBC_20241030.pdf,BOC_20241113.pdf,BOC_20241114.pdf,bulletins + avis BRVM
+SIVC,AIR LIQUIDE - ERIUM,fractionnement,2017-12-21,10 nouvelles pour 1 ancienne,10.0,4300.0,430.0,AVIS_243-2017_BRVM-DG_SIVC_20171129.pdf,BOC_20171220.pdf,BOC_20171221.pdf,bulletins + avis BRVM
+SLBC,SOLIBRA,fractionnement,2014-12-30,2 nouvelles pour 1 ancienne,2.0,400000.0,200000.0,COMMUNIQUE_SLBC_20141212.pdf,BOC_20141229.pdf,BOC_20141230.pdf,bulletins + communiqué
+SLBC,SOLIBRA,fractionnement,2024-09-30,10 nouvelles pour 1 ancienne,10.0,102125.0,10215.0,AVIS_242-2024_BRVM-DG_SLBC_20240927.pdf,BOC_20240927.pdf,BOC_20240930.pdf,bulletins + avis BRVM
+SMBC,SMB,fractionnement,2019-02-25,4 nouvelles pour 1 ancienne,4.0,18100.0,4525.0,AVIS_016-2019_BRVM-DG_SMBC_20190211.pdf,BOC_20190222.pdf,BOC_20190225.pdf,bulletins + avis BRVM
+SNTS,SONATEL,fractionnement,2012-11-23,10 nouvelles pour 1 ancienne,10.0,140000.0,14000.0,COMMUNIQUE_SNTS_20121108.pdf,BOC_20121121.pdf,BOC_20121123.pdf,bulletins + communiqué
+SNTS,SONATEL,fractionnement,2026-10-26,10 nouvelles pour 1 ancienne,10.0,43850.0,4385.0,AVIS_304-2026_BRVM-DG_SNTS_20261012.pdf,BOC_20261023.pdf,BOC_20261026.pdf,bulletins + avis BRVM
+SOGC,SOGB,fractionnement,2017-08-18,10 nouvelles pour 1 ancienne,10.0,37000.0,3700.0,AVIS_126-2017_BRVM-DG_SOGC_20170726.pdf,BOC_20170817.pdf,BOC_20170818.pdf,bulletins + avis BRVM
+SPHC,SAPH,fractionnement,2017-07-21,5 nouvelles pour 1 ancienne,5.0,15400.0,3080.0,AVIS_105-2017_BRVM-DG_SPHC_20170706.pdf,BOC_20170720.pdf,BOC_20170721.pdf,bulletins + avis BRVM
+STAC,SETAO,fractionnement,2017-10-25,100 nouvelles pour 1 ancienne,100.0,17990.0,180.0,AVIS_196-2017_BRVM-DG_STAC_20171005.pdf,BOC_20171024.pdf,BOC_20171025.pdf,bulletins + avis BRVM
+STBC,SITAB,fractionnement,2018-07-27,20 nouvelles pour 1 ancienne,20.0,40000.0,2000.0,AVIS_115-2018_BRVM-DG_STBC_20180712.pdf,BOC_20180726.pdf,BOC_20180727.pdf,bulletins + avis BRVM
+TTLC,TOTAL CI,fractionnement,2015-07-27,20 nouvelles pour 1 ancienne,20.0,419995.0,21000.0,COMMUNIQUE_BRVM_TTLC_20150727.pdf,BOC_20150724.pdf,BOC_20150727.pdf,bulletins + communiqué
+TTLC,TOTAL CI,fractionnement,2018-02-12,5 nouvelles pour 1 ancienne,5.0,10200.0,2040.0,AVIS_011-2018_BRVM-DG_TTLC_20180122.pdf,BOC_20180209.pdf,BOC_20180212.pdf,bulletins + avis BRVM
+TTLS,TOTAL SN,fractionnement,2017-11-02,10 nouvelles pour 1 ancienne,10.0,16000.0,1600.0,AVIS_206-2017_BRVM-DG_TTLS_20171016.pdf,BOC_20171031.pdf,BOC_20171102.pdf,bulletins + avis BRVM
+UNXC,UNIWAX,fractionnement,2015-04-30,5 nouvelles pour 1 ancienne,5.0,76990.0,15400.0,COMMUNIQUE_UNXC_20150415.pdf,BOC_20150429.pdf,BOC_20150430.pdf,bulletins + communiqué
+UNXC,UNIWAX,fractionnement,2017-08-11,5 nouvelles pour 1 ancienne,5.0,21090.0,4220.0,AVIS_140-2017_BRVM-DG_UNXC_20170810.pdf,BOC_20170810.pdf,BOC_20170814.pdf,bulletins + avis BRVM

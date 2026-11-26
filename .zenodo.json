@@ -1,0 +1,14 @@
+{
+  "upload_type": "dataset",
+  "title": "Données historiques des actions de la BRVM : cours, dividendes et fractionnements, 2013-2026",
+  "creators": [{"name": "Dicko, Oumar"}],
+  "description": "Cours de chaque séance (Bulletins Officiels de la Cote, 2013-2026), dividendes et fractionnements des actions cotées à la Bourse Régionale des Valeurs Mobilières (BRVM, UEMOA), chaque ligne avec son document officiel. Historical daily prices, dividends and stock splits of the equities listed on the BRVM (WAEMU regional stock exchange), built from official documents. The source PDFs are on Hugging Face: https://huggingface.co/datasets/OumarDicko/brvm-prix-historiques",
+  "license": "cc-by-4.0",
+  "language": "fra",
+  "keywords": ["BRVM", "UEMOA", "WAEMU", "stock prices", "dividends", "stock splits", "corporate actions", "West Africa", "frontier markets", "market data"],
+  "related_identifiers": [
+    {"identifier": "https://huggingface.co/datasets/OumarDicko/brvm-prix-historiques", "relation": "isSupplementedBy", "scheme": "url"},
+    {"identifier": "https://huggingface.co/datasets/OumarDicko/brvm-dividendes", "relation": "isSupplementedBy", "scheme": "url"},
+    {"identifier": "https://huggingface.co/datasets/OumarDicko/brvm-fractionnements", "relation": "isSupplementedBy", "scheme": "url"}
+  ]
+}

@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Si vous utilisez ces données, merci de les citer comme ci-dessous."
+type: dataset
+title: "Données historiques des actions de la BRVM : cours, dividendes et fractionnements, 2013-2026"
+authors:
+  - family-names: Dicko
+    given-names: Oumar
+license: CC-BY-4.0
+repository-code: "https://github.com/OumarDicko/brvm-donnees"
+url: "https://huggingface.co/datasets/OumarDicko/brvm-prix-historiques"
+keywords:
+  - BRVM
+  - UEMOA
+  - WAEMU
+  - stock prices
+  - dividends
+  - stock splits
+  - West Africa
+  - frontier markets

@@ -1,0 +1,27 @@
+date,symbole,colonne,valeur_lue,valeur_retenue,erreur_de,raison,fichier
+2013-09-18,TTRC,precedent,430.0,400.0,numérisation,colonnes décalées (texte brut : 535 | 206 675 | 400 | 375 | 430 | 386 | 7.50 | -46.25 | 430 | 400 | 460),BOC_20130918.pdf
+2013-09-18,TTRC,ouverture,400.0,375.0,numérisation,idem,BOC_20130918.pdf
+2013-09-18,TTRC,cloture,460.0,430.0,numérisation,idem,BOC_20130918.pdf
+2013-09-18,TTRC,moyen,1440.0,386.0,numérisation,idem,BOC_20130918.pdf
+2013-09-18,TTRC,var_jour,,7.5,numérisation,idem,BOC_20130918.pdf
+2013-09-18,TTRC,volume,7.5,535.0,numérisation,idem,BOC_20130918.pdf
+2013-09-18,TTRC,valeur,-46.25,206675.0,numérisation,idem,BOC_20130918.pdf
+2013-09-18,TTRC,reference,400.0,430.0,numérisation,idem,BOC_20130918.pdf
+2013-09-18,TTRC,bas,375.0,400.0,numérisation,idem,BOC_20130918.pdf
+2013-09-18,TTRC,haut,430.0,460.0,numérisation,idem,BOC_20130918.pdf
+2014-03-07,SVOC,reference,7495.0,8100.0,numérisation,"limite basse lue comme référence (veille et lendemain : 8 100, titre non coté)",BOC_20140307.pdf
+2016-01-27,BOAN,ouverture,0.0,,bulletin,le bulletin imprime 0 comme cours d'ouverture,BOC_20160127.pdf
+2016-10-28,SDSC,ouverture,300000.0,279000.0,bulletin,"ouverture et clôture inversées : variation +7,14 % = 300 000 / 280 000, référence 300 000",boc_20161028.pdf
+2016-10-28,SDSC,cloture,279000.0,300000.0,bulletin,idem,boc_20161028.pdf
+2018-04-17,ONTBF,valeur,2720248831.0,27202488310.0,bulletin,montant coupé à l'impression (« 27 202 488 31 ») ; déduit de la valeur totale du jour imprimée (27 589 179 383) moins les autres titres,boc_20180417.pdf
+2018-07-12,STBC,reference,11315.0,44995.0,bulletin,référence 11 315 imprimée un jour sans cotation ; veille et lendemain : 44 995,boc_20180712.pdf
+2019-01-04,SAFC,precedent,5300.0,215.0,bulletin,5 300 imprimé un jour sans cotation ; veille et lendemain : 215,boc_20190104.pdf
+2019-01-04,SAFC,reference,5300.0,215.0,bulletin,idem,boc_20190104.pdf
+2020-07-27,CABC,reference,785.0,710.0,bulletin,jour sans cotation après l'ex-dividende : référence 785 (cours avant dividende) au lieu de 710,BOC_20200727.pdf
+2020-07-28,CABC,precedent,785.0,710.0,bulletin,suite de l'erreur de la veille,boc_20200728.pdf
+2020-07-28,CABC,var_jour,-9.55,0.0,bulletin,variation calculée sur 785 au lieu de 710,boc_20200728.pdf
+2021-07-27,NTLC,reference,1725.0,,bulletin,référence 1 725 imprimée (ni le cours ni le cours ex-dividende) ; le lendemain le bulletin repart de 3 795,BOC_20210727.pdf
+2021-08-09,SDSC,reference,1945.0,1845.0,bulletin,jour sans cotation après l'ex-dividende : référence 1 945 (cours avant dividende) au lieu de 1 845,BOC_20210809.pdf
+2023-07-11,TTLC,precedent,2455.0,2260.0,bulletin,précédent et référence de la ligne TOTAL SN (2 455 / 2 615) imprimés sur la ligne TOTAL CI ; veille et lendemain : 2 260,boc_20230711_2.pdf
+2023-07-11,TTLC,var_jour,6.52,0.0,bulletin,idem,boc_20230711_2.pdf
+2023-07-11,TTLC,reference,2615.0,2260.0,bulletin,idem,boc_20230711_2.pdf
